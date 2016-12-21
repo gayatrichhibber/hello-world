@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+just another repositry
+i like to add javascript and css files to it
